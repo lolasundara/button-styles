@@ -13,5 +13,7 @@ div {
 }
 
 .btn-primary {
-  color: #333;
+  display: block;
+  background-color: #333;
+
 }
