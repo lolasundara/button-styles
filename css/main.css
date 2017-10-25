@@ -11,3 +11,7 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+.btn-primary {
+  color: #333;
+}
