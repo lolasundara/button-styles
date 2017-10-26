@@ -18,6 +18,27 @@ a {
 
 .first a:hover {
   background-color: #000;
+  border: 3px solid #000;
+}
+
+.second a:hover {
+  background-color: #666;
+  border: 3px solid #666;
+}
+
+.third a:hover {
+  background-color: #666;
+  border: 3px solid #666;
+}
+
+.fourth a:hover {
+  background-color: #;
+  border: 3px solid #;
+}
+
+.fifth a:hover {
+  background-color: #000;
+  border-radius: 3px solid #000;
 }
 
 .btn {
