@@ -14,7 +14,7 @@ div {
 
 
 
-.btn-one {
+.btn {
   display: inline-block;
   padding: .4em;
   margin: 0;
@@ -22,18 +22,126 @@ div {
   text-decoration: none;
   color: #fff;
   border-radius: 8px;
-  border-width: 3px;
+  border: 3px solid #333;
   font-size: 1.125rem;
 }
 
-.btn-two {
+.btn-subtle {
   display: inline-block;
-  padding: .4em;
+  padding: .3em;
   margin: 0;
   background-color: #ccc;
   color: #fff;
   text-decoration: none;
   border-radius: 8px;
-  border-width: 3px;
+  border: 3px solid #ccc;
   font-size: 1.125rem;
+}
+
+.btn-ghost {
+  display: inline-block;
+  padding: .3em;
+  margin: 0;
+  background-color: #fff;
+  color: #000;
+  text-decoration: none;
+  border-radius: 8px;
+  border: 3px solid #000;
+  font-size: 1.125rem;
+}
+
+.btn-warning {
+  display: inline-block;
+  padding: .4em;
+  margin: 0;
+  background-color: #f33;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  border: 3px solid #f33;
+  font-size: 1.125rem;
+}
+
+.btn-small {
+  display: inline-block;
+  padding: .3em;
+  margin: 0;
+  background-color: #333;
+  color: #fff;
+  text-decoration: #fff;
+  border-radius: 8px;
+  border: 3px solid #333;
+  font-size: .875rem;
+}
+
+.btn-subtle-two {
+  display: inline-block;
+  padding: .3em;
+  margin: 0;
+  background-color: #ccc;
+  color: #fff;
+  text-decoration: #fff;
+  border-radius: 8px;
+  border: 3px solid #ccc;
+  font-size: .875rem;
+}
+
+.btn-ghost-two {
+  display:inline-block;
+  padding: .3em;
+  margin: 0;
+  background-color: #fff;
+  color: #000;
+  text-decoration: none;
+  border-radius: 8px;
+  border: 3px solid #000;
+  font-size: .875rem;
+}
+
+.btn-warning-two {
+  display:inline-block;
+  padding: .3em;
+  margin: 0;
+  background-color: #f33;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  border: 3px solid #f33;
+  font-size: .875rem;
+}
+
+.btn-big {
+  display: inline-block;
+  padding: .75em;
+  margin: 0;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  border: 3px solid #333;
+  font-size: 1.5rem;
+}
+
+.btn-subtle-three {
+  display: inline-block;
+  padding: .75em;
+  margin: 0;
+  background-color: #ccc;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  border: 3px solid #ccc;
+  font-size: 1.5rem;
+}
+
+.btn-ghost-three {
+  display: inline-block;
+  padding: .75em;
+  margin: 0;
+  background-color: #fff;
+  color: #000;
+  text-decoration: none;
+  border-radius: 8px;
+  border: 3px solid #000;
+  font-size: 1.5rem;
 }
