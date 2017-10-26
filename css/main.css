@@ -103,7 +103,7 @@ a {
 }
 
 .btn-ghost-two {
-  display:inline-block;
+  display: inline-block;
   padding: .3em;
   margin: 0;
   background-color: #fff;
@@ -114,7 +114,7 @@ a {
 }
 
 .btn-warning-two {
-  display:inline-block;
+  display: inline-block;
   padding: .3em;
   margin: 0;
   background-color: #f33;
