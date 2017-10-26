@@ -16,6 +16,10 @@ a {
   text-decoration: none;
 }
 
+.first a:hover {
+  background-color: #000;
+}
+
 .btn {
   display: inline-block;
   padding: .4em;
