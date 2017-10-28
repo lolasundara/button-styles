@@ -60,7 +60,7 @@ a {
 
 .btn-ghost {
   display: inline-block;
-  padding: .3em;
+  padding: .4em;
   margin: 0;
   background-color: #fff;
   color: #000;
@@ -126,7 +126,7 @@ a {
 
 .btn-big {
   display: inline-block;
-  padding: .75em;
+  padding: .4em;
   margin: 0;
   background-color: #333;
   color: #fff;
@@ -137,7 +137,7 @@ a {
 
 .btn-subtle-three {
   display: inline-block;
-  padding: .75em;
+  padding: .4em;
   margin: 0;
   background-color: #ccc;
   color: #fff;
@@ -148,7 +148,7 @@ a {
 
 .btn-ghost-three {
   display: inline-block;
-  padding: .75em;
+  padding: .4em;
   margin: 0;
   background-color: #fff;
   color: #000;
@@ -159,7 +159,7 @@ a {
 
 .btn-warning-three {
   display: inline-block;
-  padding: .75em;
+  padding: .4em;
   margin: 0;
   background-color: #f33;
   color: #fff;
