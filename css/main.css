@@ -20,6 +20,18 @@ a {
   text-align: center;
 }
 
+.btn-subtle:hover {
+  text-align: center;
+}
+
+.btn-ghost:hover {
+  text-align: center;
+}
+
+.btn-warning:hover {
+  text-align: center;
+}
+
 .first a:hover {
   background-color: #000;
   border: 3px solid #000;
