@@ -16,6 +16,10 @@ a {
   text-decoration: none;
 }
 
+.btn:hover {
+  text-align: center;
+}
+
 .first a:hover {
   background-color: #000;
   border: 3px solid #000;
